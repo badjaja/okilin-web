@@ -5,6 +5,7 @@ and the email-confirmation page. Served via GitHub Pages.
 
 - `privacidade.html` — Política de Privacidade
 - `termos.html` — Termos e Condições
+- `eliminar-conta.html` — como eliminar a conta (link pedido pela Play Console)
 - `confirmado.html` — página de confirmação de email
 - `index.html` — landing
 
